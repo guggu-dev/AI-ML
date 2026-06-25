@@ -46,14 +46,3 @@ An official copy of the internship offer letter has been attached to this reposi
   * Trained a Linear Regression model to predict continuous target variables.
   * Evaluated regression accuracy using Mean Squared Error (MSE).
 * **Key Skills Applied:** Tabular data handling, regression analysis, feature engineering, and continuous metric evaluation.
-
----
-
-## 🚀 Execution & Usage
-These notebooks were designed to run seamlessly in **Google Colab**. 
-
-1. Clone this repository or download the `.ipynb` files.
-2. Upload the notebooks directly to [Google Colab](https://colab.research.google.com/).
-3. Ensure the required libraries are installed (most are pre-installed in Colab environments):
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
